@@ -14,9 +14,8 @@ onMounted(async () => {
 <template>
   <section id="hero">
     <h1 class="tagline">
-      The
-      <span class="accent">Progressive</span>
-      <br />JavaScript Framework
+      <span class="accent">NAORobot</span>
+      <br />南邮管理学院机器人项目
     </h1>
     <p class="description">
       An approachable, performant and versatile framework for building web
