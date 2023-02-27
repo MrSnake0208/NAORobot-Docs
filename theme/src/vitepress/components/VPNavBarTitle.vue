@@ -11,7 +11,7 @@
           d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z"
         />
       </svg>
-      <span class="text">Vue.js</span>
+      <span class="text">NaoRobot</span>
     </slot>
   </a>
 </template>
